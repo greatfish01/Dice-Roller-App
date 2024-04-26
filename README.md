@@ -1,4 +1,5 @@
 Dice Roller App
+
 This Android/iOS app allows users to simulate rolling a six-sided dice. The app features a layout designed with relative positioning using ConstrainLayout (Android).
 The code is using Kotlin. 
 
