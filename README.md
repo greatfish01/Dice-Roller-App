@@ -4,6 +4,7 @@ This Android/iOS app allows users to simulate rolling a six-sided dice. The app 
 The code is using Kotlin. 
 
 Features
+
 Layout Design:
 Utilizes ConstrainLayout (Android) or AutoLayout (iOS) for responsive and relative positioning of UI components.
 
